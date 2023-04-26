@@ -1,16 +1,9 @@
-# wong_pak_wong
+Untuk menjalankan aplikasi di Visual Studio Code, pertama-tama pastikan Anda sudah menginstall Flutter SDK dan plugin Flutter pada Visual Studio Code. Kemudian ikuti langkah-langkah berikut:
 
-A new Flutter project.
+Buka folder proyek Flutter Anda pada Visual Studio Code
+Buka terminal pada Visual Studio Code (Ctrl + Shift + `)
+Ketikkan perintah flutter run pada terminal, lalu tekan Enter
+Aplikasi akan di-compile dan dijalankan pada emulator atau device yang terhubung pada komputer Anda
+Anda juga bisa menjalankan aplikasi melalui tombol "Run" pada menu bar atau menggunakan shortcut keyboard F5.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Pastikan emulator atau device Anda sudah terhubung dan terdeteksi oleh Flutter sebelum menjalankan aplikasi.

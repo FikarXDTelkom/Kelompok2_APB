@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1032436116105",
+    "project_id": "flutter-aplikasi-wong-pak-wong",
+    "storage_bucket": "flutter-aplikasi-wong-pak-wong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032436116105:android:5acf495d48d68c710b7458",
+        "android_client_info": {
+          "package_name": "com.example.wong_pak_wong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032436116105-3njok5a622dnbgpttssm83a3li5i14fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvrSYZinHc2wLFBEtxFBttJ36sK4BLWrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032436116105-3njok5a622dnbgpttssm83a3li5i14fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
